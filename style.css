@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Shrikhand:400,700|Cormorant Garamond:300,400,700");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  margin: 20px auto;
+  text-align: center;
+
+
+}
+h1, h3 {
+  font-family: fantasy;
+  font-weight: ;
+  letter-spacing: 5px;
+}
+a {
+text-decoration: ;
+}
+h2 {
+  font-family: ;
+  font-weight: ;
+
+}
+--
